@@ -4,19 +4,40 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99207e58-8127-4923-9610-232dc3955112" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Pork.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="99207e58-8127-4923-9610-232dc3955112" name="Changes" comment="Pork was initialized">
+      <change afterPath="$PROJECT_DIR$/api.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clone.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clone_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmd/pork/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fork.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fork_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pullrequest.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pullrequest_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
   <component name="GOROOT" url="file://C:/Program Files/Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="4" />
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
@@ -25,13 +46,17 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="24Z4n6Z0kNTYdhFp4fZIOr6cHlN" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -88,6 +113,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Pork was initialized" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pork was initialized" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
